@@ -1,0 +1,38 @@
+id,destination,start_date,end_date,category,cost,notes
+2,vizag,2020-11-21,2020-11-25,Holiday,6000.0,solo trip
+3,Hyderabad,2020-11-21,2020-11-25,Education,5000.0,solo trip
+4,Hyderabad,2026-12-03,2026-12-05,Holiday,1500,Sample travel record
+5,Vizag,2026-12-06,2026-12-08,Education,1850,Sample travel record
+6,Vijayawada,2026-12-09,2026-12-11,Family,2200,Sample travel record
+7,Warangal,2026-12-12,2026-12-14,Adventure,2550,Sample travel record
+8,Araku Valley,2026-12-15,2026-12-17,Other,2900,Sample travel record
+9,Tirupati,2026-12-18,2026-12-20,Holiday,3250,Sample travel record
+10,Chennai,2026-12-21,2026-12-23,Education,3600,Sample travel record
+11,Bangalore,2026-12-24,2026-12-26,Family,3950,Sample travel record
+12,Mumbai,2026-12-27,2026-12-29,Adventure,4300,Sample travel record
+13,Delhi,2026-12-30,2027-01-01,Other,4650,Sample travel record
+14,Goa,2027-01-02,2027-01-04,Holiday,5000,Sample travel record
+15,Pune,2027-01-05,2027-01-07,Education,5350,Sample travel record
+16,Mysore,2027-01-08,2027-01-10,Family,5700,Sample travel record
+17,Kochi,2027-01-11,2027-01-13,Adventure,6050,Sample travel record
+18,Jaipur,2027-01-14,2027-01-16,Other,6400,Sample travel record
+19,Agra,2027-01-17,2027-01-19,Holiday,6750,Sample travel record
+20,Ooty,2027-01-20,2027-01-22,Education,7100,Sample travel record
+21,Coorg,2027-01-23,2027-01-25,Family,7450,Sample travel record
+22,Munnar,2027-01-26,2027-01-28,Adventure,7800,Sample travel record
+23,Kolkata,2027-01-29,2027-01-31,Other,8150,Sample travel record
+24,Amritsar,2027-02-01,2027-02-03,Holiday,8500,Sample travel record
+25,Manali,2027-02-04,2027-02-06,Education,8850,Sample travel record
+26,Shimla,2027-02-07,2027-02-09,Family,9200,Sample travel record
+27,Udaipur,2027-02-10,2027-02-12,Adventure,9550,Sample travel record
+28,Rishikesh,2027-02-13,2027-02-15,Other,9900,Sample travel record
+29,Varanasi,2027-02-16,2027-02-18,Holiday,10250,Sample travel record
+30,Guntur,2027-02-19,2027-02-21,Education,10600,Sample travel record
+31,Nellore,2027-02-22,2027-02-24,Family,10950,Sample travel record
+32,Kurnool,2027-02-25,2027-02-27,Adventure,11300,Sample travel record
+33,Rajahmundry,2027-02-28,2027-03-02,Other,11650,Sample travel record
+34,Srikakulam,2027-03-03,2027-03-05,Holiday,12000,Sample travel record
+35,Kanyakumari,2027-03-06,2027-03-08,Education,12350,Sample travel record
+36,Madurai,2027-03-09,2027-03-11,Family,12700,Sample travel record
+37,Hampi,2027-03-12,2027-03-14,Adventure,13050,Sample travel record
+38,Alleppey,2027-03-15,2027-03-17,Other,13400,Sample travel record

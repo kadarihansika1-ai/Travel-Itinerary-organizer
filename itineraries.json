@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "destination": "Hyderabad",
+        "start_date": "2027-01-01",
+        "end_date": "2027-01-04",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 6000,
+        "status": "Planned"
+    },
+    {
+        "id": 2,
+        "destination": "Bangalore",
+        "start_date": "2027-01-06",
+        "end_date": "2027-01-09",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 7000,
+        "status": "Planned"
+    },
+    {
+        "id": 3,
+        "destination": "Chennai",
+        "start_date": "2027-01-11",
+        "end_date": "2027-01-14",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 8000,
+        "status": "Planned"
+    },
+    {
+        "id": 4,
+        "destination": "Mumbai",
+        "start_date": "2027-01-16",
+        "end_date": "2027-01-19",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 9000,
+        "status": "Planned"
+    },
+    {
+        "id": 5,
+        "destination": "Delhi",
+        "start_date": "2027-01-21",
+        "end_date": "2027-01-24",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 10000,
+        "status": "Planned"
+    },
+    {
+        "id": 6,
+        "destination": "Goa",
+        "start_date": "2027-01-26",
+        "end_date": "2027-01-29",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 11000,
+        "status": "Planned"
+    },
+    {
+        "id": 7,
+        "destination": "Jaipur",
+        "start_date": "2027-01-31",
+        "end_date": "2027-02-03",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 12000,
+        "status": "Planned"
+    },
+    {
+        "id": 8,
+        "destination": "Kochi",
+        "start_date": "2027-02-05",
+        "end_date": "2027-02-08",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 13000,
+        "status": "Planned"
+    },
+    {
+        "id": 9,
+        "destination": "Pune",
+        "start_date": "2027-02-10",
+        "end_date": "2027-02-13",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 14000,
+        "status": "Planned"
+    },
+    {
+        "id": 10,
+        "destination": "Mysore",
+        "start_date": "2027-02-15",
+        "end_date": "2027-02-18",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 15000,
+        "status": "Planned"
+    },
+    {
+        "id": 11,
+        "destination": "Agra",
+        "start_date": "2027-02-20",
+        "end_date": "2027-02-23",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 16000,
+        "status": "Planned"
+    },
+    {
+        "id": 12,
+        "destination": "Manali",
+        "start_date": "2027-02-25",
+        "end_date": "2027-02-28",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 17000,
+        "status": "Planned"
+    },
+    {
+        "id": 13,
+        "destination": "Ooty",
+        "start_date": "2027-03-02",
+        "end_date": "2027-03-05",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 18000,
+        "status": "Planned"
+    },
+    {
+        "id": 14,
+        "destination": "Kodaikanal",
+        "start_date": "2027-03-07",
+        "end_date": "2027-03-10",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 19000,
+        "status": "Planned"
+    },
+    {
+        "id": 15,
+        "destination": "Vizag",
+        "start_date": "2027-03-12",
+        "end_date": "2027-03-15",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 20000,
+        "status": "Planned"
+    },
+    {
+        "id": 16,
+        "destination": "Vijayawada",
+        "start_date": "2027-03-17",
+        "end_date": "2027-03-20",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 21000,
+        "status": "Planned"
+    },
+    {
+        "id": 17,
+        "destination": "Warangal",
+        "start_date": "2027-03-22",
+        "end_date": "2027-03-25",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 22000,
+        "status": "Planned"
+    },
+    {
+        "id": 18,
+        "destination": "Tirupati",
+        "start_date": "2027-03-27",
+        "end_date": "2027-03-30",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 23000,
+        "status": "Planned"
+    },
+    {
+        "id": 19,
+        "destination": "Varanasi",
+        "start_date": "2027-04-01",
+        "end_date": "2027-04-04",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 24000,
+        "status": "Planned"
+    },
+    {
+        "id": 20,
+        "destination": "Kolkata",
+        "start_date": "2027-04-06",
+        "end_date": "2027-04-09",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 25000,
+        "status": "Planned"
+    },
+    {
+        "id": 21,
+        "destination": "Ahmedabad",
+        "start_date": "2027-04-11",
+        "end_date": "2027-04-14",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 26000,
+        "status": "Planned"
+    },
+    {
+        "id": 22,
+        "destination": "Shimla",
+        "start_date": "2027-04-16",
+        "end_date": "2027-04-19",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 27000,
+        "status": "Planned"
+    },
+    {
+        "id": 23,
+        "destination": "Rishikesh",
+        "start_date": "2027-04-21",
+        "end_date": "2027-04-24",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 28000,
+        "status": "Planned"
+    },
+    {
+        "id": 24,
+        "destination": "Munnar",
+        "start_date": "2027-04-26",
+        "end_date": "2027-04-29",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 29000,
+        "status": "Planned"
+    },
+    {
+        "id": 25,
+        "destination": "Coorg",
+        "start_date": "2027-05-01",
+        "end_date": "2027-05-04",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 30000,
+        "status": "Planned"
+    },
+    {
+        "id": 26,
+        "destination": "Udaipur",
+        "start_date": "2027-05-06",
+        "end_date": "2027-05-09",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 31000,
+        "status": "Planned"
+    },
+    {
+        "id": 27,
+        "destination": "Amritsar",
+        "start_date": "2027-05-11",
+        "end_date": "2027-05-14",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 32000,
+        "status": "Planned"
+    },
+    {
+        "id": 28,
+        "destination": "Pondicherry",
+        "start_date": "2027-05-16",
+        "end_date": "2027-05-19",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 33000,
+        "status": "Planned"
+    },
+    {
+        "id": 29,
+        "destination": "Lucknow",
+        "start_date": "2027-05-21",
+        "end_date": "2027-05-24",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 34000,
+        "status": "Planned"
+    },
+    {
+        "id": 30,
+        "destination": "Srinagar",
+        "start_date": "2027-05-26",
+        "end_date": "2027-05-29",
+        "notes": "Sample travel itinerary",
+        "estimated_cost": 35000,
+        "status": "Planned"
+    }
+]

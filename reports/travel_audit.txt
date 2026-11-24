@@ -1,0 +1,243 @@
+TRAVEL ITINERARY AUDIT REPORT
+========================================
+
+ID: 1
+Destination: Hyderabad
+Start: 2027-01-01
+End: 2027-01-04
+Cost: Rs. 6000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 2
+Destination: Bangalore
+Start: 2027-01-06
+End: 2027-01-09
+Cost: Rs. 7000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 3
+Destination: Chennai
+Start: 2027-01-11
+End: 2027-01-14
+Cost: Rs. 8000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 4
+Destination: Mumbai
+Start: 2027-01-16
+End: 2027-01-19
+Cost: Rs. 9000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 5
+Destination: Delhi
+Start: 2027-01-21
+End: 2027-01-24
+Cost: Rs. 10000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 6
+Destination: Goa
+Start: 2027-01-26
+End: 2027-01-29
+Cost: Rs. 11000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 7
+Destination: Jaipur
+Start: 2027-01-31
+End: 2027-02-03
+Cost: Rs. 12000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 8
+Destination: Kochi
+Start: 2027-02-05
+End: 2027-02-08
+Cost: Rs. 13000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 9
+Destination: Pune
+Start: 2027-02-10
+End: 2027-02-13
+Cost: Rs. 14000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 10
+Destination: Mysore
+Start: 2027-02-15
+End: 2027-02-18
+Cost: Rs. 15000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 11
+Destination: Agra
+Start: 2027-02-20
+End: 2027-02-23
+Cost: Rs. 16000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 12
+Destination: Manali
+Start: 2027-02-25
+End: 2027-02-28
+Cost: Rs. 17000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 13
+Destination: Ooty
+Start: 2027-03-02
+End: 2027-03-05
+Cost: Rs. 18000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 14
+Destination: Kodaikanal
+Start: 2027-03-07
+End: 2027-03-10
+Cost: Rs. 19000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 15
+Destination: Vizag
+Start: 2027-03-12
+End: 2027-03-15
+Cost: Rs. 20000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 16
+Destination: Vijayawada
+Start: 2027-03-17
+End: 2027-03-20
+Cost: Rs. 21000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 17
+Destination: Warangal
+Start: 2027-03-22
+End: 2027-03-25
+Cost: Rs. 22000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 18
+Destination: Tirupati
+Start: 2027-03-27
+End: 2027-03-30
+Cost: Rs. 23000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 19
+Destination: Varanasi
+Start: 2027-04-01
+End: 2027-04-04
+Cost: Rs. 24000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 20
+Destination: Kolkata
+Start: 2027-04-06
+End: 2027-04-09
+Cost: Rs. 25000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 21
+Destination: Ahmedabad
+Start: 2027-04-11
+End: 2027-04-14
+Cost: Rs. 26000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 22
+Destination: Shimla
+Start: 2027-04-16
+End: 2027-04-19
+Cost: Rs. 27000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 23
+Destination: Rishikesh
+Start: 2027-04-21
+End: 2027-04-24
+Cost: Rs. 28000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 24
+Destination: Munnar
+Start: 2027-04-26
+End: 2027-04-29
+Cost: Rs. 29000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 25
+Destination: Coorg
+Start: 2027-05-01
+End: 2027-05-04
+Cost: Rs. 30000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 26
+Destination: Udaipur
+Start: 2027-05-06
+End: 2027-05-09
+Cost: Rs. 31000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 27
+Destination: Amritsar
+Start: 2027-05-11
+End: 2027-05-14
+Cost: Rs. 32000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 28
+Destination: Pondicherry
+Start: 2027-05-16
+End: 2027-05-19
+Cost: Rs. 33000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 29
+Destination: Lucknow
+Start: 2027-05-21
+End: 2027-05-24
+Cost: Rs. 34000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------
+ID: 30
+Destination: Srinagar
+Start: 2027-05-26
+End: 2027-05-29
+Cost: Rs. 35000
+Status: Planned
+Notes: Sample travel itinerary
+----------------------------------------

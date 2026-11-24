@@ -1,0 +1,335 @@
+[
+    {
+        "id": 2,
+        "destination": "vizag",
+        "start_date": "2020-11-21",
+        "end_date": "2020-11-25",
+        "category": "Holiday",
+        "cost": 6000.0,
+        "notes": "solo trip"
+    },
+    {
+        "id": 3,
+        "destination": "Hyderabad",
+        "start_date": "2020-11-21",
+        "end_date": "2020-11-25",
+        "category": "Education",
+        "cost": 5000.0,
+        "notes": "solo trip"
+    },
+    {
+        "id": 4,
+        "destination": "Hyderabad",
+        "start_date": "2026-12-03",
+        "end_date": "2026-12-05",
+        "category": "Holiday",
+        "cost": 1500,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 5,
+        "destination": "Vizag",
+        "start_date": "2026-12-06",
+        "end_date": "2026-12-08",
+        "category": "Education",
+        "cost": 1850,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 6,
+        "destination": "Vijayawada",
+        "start_date": "2026-12-09",
+        "end_date": "2026-12-11",
+        "category": "Family",
+        "cost": 2200,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 7,
+        "destination": "Warangal",
+        "start_date": "2026-12-12",
+        "end_date": "2026-12-14",
+        "category": "Adventure",
+        "cost": 2550,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 8,
+        "destination": "Araku Valley",
+        "start_date": "2026-12-15",
+        "end_date": "2026-12-17",
+        "category": "Other",
+        "cost": 2900,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 9,
+        "destination": "Tirupati",
+        "start_date": "2026-12-18",
+        "end_date": "2026-12-20",
+        "category": "Holiday",
+        "cost": 3250,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 10,
+        "destination": "Chennai",
+        "start_date": "2026-12-21",
+        "end_date": "2026-12-23",
+        "category": "Education",
+        "cost": 3600,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 11,
+        "destination": "Bangalore",
+        "start_date": "2026-12-24",
+        "end_date": "2026-12-26",
+        "category": "Family",
+        "cost": 3950,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 12,
+        "destination": "Mumbai",
+        "start_date": "2026-12-27",
+        "end_date": "2026-12-29",
+        "category": "Adventure",
+        "cost": 4300,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 13,
+        "destination": "Delhi",
+        "start_date": "2026-12-30",
+        "end_date": "2027-01-01",
+        "category": "Other",
+        "cost": 4650,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 14,
+        "destination": "Goa",
+        "start_date": "2027-01-02",
+        "end_date": "2027-01-04",
+        "category": "Holiday",
+        "cost": 5000,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 15,
+        "destination": "Pune",
+        "start_date": "2027-01-05",
+        "end_date": "2027-01-07",
+        "category": "Education",
+        "cost": 5350,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 16,
+        "destination": "Mysore",
+        "start_date": "2027-01-08",
+        "end_date": "2027-01-10",
+        "category": "Family",
+        "cost": 5700,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 17,
+        "destination": "Kochi",
+        "start_date": "2027-01-11",
+        "end_date": "2027-01-13",
+        "category": "Adventure",
+        "cost": 6050,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 18,
+        "destination": "Jaipur",
+        "start_date": "2027-01-14",
+        "end_date": "2027-01-16",
+        "category": "Other",
+        "cost": 6400,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 19,
+        "destination": "Agra",
+        "start_date": "2027-01-17",
+        "end_date": "2027-01-19",
+        "category": "Holiday",
+        "cost": 6750,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 20,
+        "destination": "Ooty",
+        "start_date": "2027-01-20",
+        "end_date": "2027-01-22",
+        "category": "Education",
+        "cost": 7100,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 21,
+        "destination": "Coorg",
+        "start_date": "2027-01-23",
+        "end_date": "2027-01-25",
+        "category": "Family",
+        "cost": 7450,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 22,
+        "destination": "Munnar",
+        "start_date": "2027-01-26",
+        "end_date": "2027-01-28",
+        "category": "Adventure",
+        "cost": 7800,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 23,
+        "destination": "Kolkata",
+        "start_date": "2027-01-29",
+        "end_date": "2027-01-31",
+        "category": "Other",
+        "cost": 8150,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 24,
+        "destination": "Amritsar",
+        "start_date": "2027-02-01",
+        "end_date": "2027-02-03",
+        "category": "Holiday",
+        "cost": 8500,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 25,
+        "destination": "Manali",
+        "start_date": "2027-02-04",
+        "end_date": "2027-02-06",
+        "category": "Education",
+        "cost": 8850,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 26,
+        "destination": "Shimla",
+        "start_date": "2027-02-07",
+        "end_date": "2027-02-09",
+        "category": "Family",
+        "cost": 9200,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 27,
+        "destination": "Udaipur",
+        "start_date": "2027-02-10",
+        "end_date": "2027-02-12",
+        "category": "Adventure",
+        "cost": 9550,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 28,
+        "destination": "Rishikesh",
+        "start_date": "2027-02-13",
+        "end_date": "2027-02-15",
+        "category": "Other",
+        "cost": 9900,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 29,
+        "destination": "Varanasi",
+        "start_date": "2027-02-16",
+        "end_date": "2027-02-18",
+        "category": "Holiday",
+        "cost": 10250,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 30,
+        "destination": "Guntur",
+        "start_date": "2027-02-19",
+        "end_date": "2027-02-21",
+        "category": "Education",
+        "cost": 10600,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 31,
+        "destination": "Nellore",
+        "start_date": "2027-02-22",
+        "end_date": "2027-02-24",
+        "category": "Family",
+        "cost": 10950,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 32,
+        "destination": "Kurnool",
+        "start_date": "2027-02-25",
+        "end_date": "2027-02-27",
+        "category": "Adventure",
+        "cost": 11300,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 33,
+        "destination": "Rajahmundry",
+        "start_date": "2027-02-28",
+        "end_date": "2027-03-02",
+        "category": "Other",
+        "cost": 11650,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 34,
+        "destination": "Srikakulam",
+        "start_date": "2027-03-03",
+        "end_date": "2027-03-05",
+        "category": "Holiday",
+        "cost": 12000,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 35,
+        "destination": "Kanyakumari",
+        "start_date": "2027-03-06",
+        "end_date": "2027-03-08",
+        "category": "Education",
+        "cost": 12350,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 36,
+        "destination": "Madurai",
+        "start_date": "2027-03-09",
+        "end_date": "2027-03-11",
+        "category": "Family",
+        "cost": 12700,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 37,
+        "destination": "Hampi",
+        "start_date": "2027-03-12",
+        "end_date": "2027-03-14",
+        "category": "Adventure",
+        "cost": 13050,
+        "notes": "Sample travel record"
+    },
+    {
+        "id": 38,
+        "destination": "Alleppey",
+        "start_date": "2027-03-15",
+        "end_date": "2027-03-17",
+        "category": "Other",
+        "cost": 13400,
+        "notes": "Sample travel record"
+    }
+]

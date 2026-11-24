@@ -1,0 +1,21 @@
+TRAVEL ITINERARY ORGANIZER REPORT
+========================================
+Total Trips: 2
+Total Expense: 9000.0
+Average Expense: 4500.0
+
+TRIP DETAILS
+
+Destination: vizag
+Start Date: 2026-11-12
+End Date: 2026-11-17
+Category: solo trip
+Cost: 3000.0
+Notes: solo trip
+
+Destination: Hyderabad
+Start Date: 2026-11-24
+End Date: 2026-11-29
+Category: holiday
+Cost: 6000.0
+Notes: family trip
